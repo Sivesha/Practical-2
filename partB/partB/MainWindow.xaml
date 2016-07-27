@@ -1,0 +1,21 @@
+﻿<Window x:Class="partB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:partB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Lenght" Content="Lenght" HorizontalAlignment="Left" Margin="22,46,0,0" VerticalAlignment="Top" Width="75" Click="Lenght_Click"/>
+        <Button x:Name="btncontains" Content="Contains" HorizontalAlignment="Left" Margin="22,108,0,0" VerticalAlignment="Top" Width="75" Click="btncontains_Click"/>
+        <Button x:Name="indexof" Content="Index Of" HorizontalAlignment="Left" Margin="22,165,0,0" VerticalAlignment="Top" Width="75" Click="indexof_Click"/>
+        <Button x:Name="InsertSub4" Content="Insert Substring" HorizontalAlignment="Left" Margin="158,46,0,0" VerticalAlignment="Top" Width="98" Click="InsertSub4_Click"/>
+        <Button x:Name="replaceSub" Content="Replace Substring" HorizontalAlignment="Left" Margin="158,108,0,0" VerticalAlignment="Top" Width="98" Click="replaceSub_Click"/>
+        <Button x:Name="deleteSub" Content="Delete substring" HorizontalAlignment="Left" Margin="158,165,0,0" VerticalAlignment="Top" Width="98" Click="deleteSub_Click"/>
+        <Button x:Name="Split" Content="Split" HorizontalAlignment="Left" Margin="284,46,0,0" VerticalAlignment="Top" Width="101" Click="Split_Click"/>
+        <Button x:Name="comparestring" Content="Compare String" HorizontalAlignment="Left" Margin="284,108,0,0" VerticalAlignment="Top" Width="101" Click="comparestring_Click"/>
+        <Button x:Name="btntoUpper" Content="to Uppercase" HorizontalAlignment="Left" Margin="284,170,0,0" VerticalAlignment="Top" Width="101" Click="btntoUpper_Click"/>
+        <Button x:Name="btntoLower" Content="to Lowercase" HorizontalAlignment="Left" Margin="398,170,0,0" VerticalAlignment="Top" Width="75" Click="btntoLower_Click"/>
+    </Grid>
+</Window>

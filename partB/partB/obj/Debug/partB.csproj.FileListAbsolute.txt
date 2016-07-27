@@ -1,0 +1,15 @@
+C:\Users\Sive\Desktop\Prac 2\partB\partB\bin\Debug\partB.exe.config
+C:\Users\Sive\Desktop\Prac 2\partB\partB\bin\Debug\partB.exe
+C:\Users\Sive\Desktop\Prac 2\partB\partB\bin\Debug\partB.pdb
+C:\Users\Sive\Desktop\Prac 2\partB\partB\bin\Debug\ThinkLib.dll
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\partB.csprojResolveAssemblyReference.cache
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\MainWindow.g.cs
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\App.g.cs
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\partB_MarkupCompile.cache
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\partB_MarkupCompile.lref
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\MainWindow.baml
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\partB.g.resources
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\partB.Properties.Resources.resources
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\partB.csproj.GenerateResource.Cache
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\partB.exe
+C:\Users\Sive\Desktop\Prac 2\partB\partB\obj\Debug\partB.pdb
